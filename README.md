@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlavioRitz
 - 👀 I’m interested in Python, Webapps, Data Science and ML. 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning ML.
 - 📫 How to reach me: apritzclass@gmail.com
 
 <!---
